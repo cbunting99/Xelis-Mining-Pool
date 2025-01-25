@@ -1,7 +1,7 @@
 # Xelis Mining Pool
 
 ## Overview
-Welcome to the **XelisHashV2 Mining Pool**, a commercial-grade mining pool with advanced features designed for the Xelis blockchain. This pool supports the XelisHashV2 algorithm and offers robust functionality for both miners and administrators, including FPPS payouts, dynamic difficulty adjustment, and real-time monitoring.
+Welcome to the **XelisHashV2 Mining Pool**, a commercial-grade mining pool with advanced features designed for the Xelis blockchain. This pool supports the XelisHashV2 algorithm and offers robust functionality for both miners and administrators, including various payout options, dynamic difficulty adjustment, and real-time monitoring.
 
 ---
 
